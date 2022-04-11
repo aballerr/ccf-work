@@ -1,0 +1,26 @@
+{
+  "local": {
+    "username": "docker",
+    "password": "docker",
+    "database": "docker",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "development": {
+    "username": "docker",
+    "password": "docker",
+    "database": "docker",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "username": "docker",
+    "password": "docker",
+    "database": "docker",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": false
+  }
+}
